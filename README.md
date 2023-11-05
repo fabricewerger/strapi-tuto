@@ -1,4 +1,4 @@
-# Blog using Next.js and Strapi
+# strapi-tuto
 
 > **NOTE:**
 > 
@@ -127,10 +127,3 @@ yarn dev
 ```
 
 
-
-
-
-
-
-
-# strapi-tuto
